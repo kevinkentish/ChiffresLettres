@@ -1,0 +1,10 @@
+C:\Users\kiyasawm\source\repos\wordform\wordform\bin\Debug\wordform.exe.config
+C:\Users\kiyasawm\source\repos\wordform\wordform\bin\Debug\wordform.exe
+C:\Users\kiyasawm\source\repos\wordform\wordform\bin\Debug\wordform.pdb
+C:\Users\kiyasawm\source\repos\wordform\wordform\obj\Debug\wordform.csprojAssemblyReference.cache
+C:\Users\kiyasawm\source\repos\wordform\wordform\obj\Debug\wordform.Form1.resources
+C:\Users\kiyasawm\source\repos\wordform\wordform\obj\Debug\wordform.Properties.Resources.resources
+C:\Users\kiyasawm\source\repos\wordform\wordform\obj\Debug\wordform.csproj.GenerateResource.cache
+C:\Users\kiyasawm\source\repos\wordform\wordform\obj\Debug\wordform.csproj.CoreCompileInputs.cache
+C:\Users\kiyasawm\source\repos\wordform\wordform\obj\Debug\wordform.exe
+C:\Users\kiyasawm\source\repos\wordform\wordform\obj\Debug\wordform.pdb
