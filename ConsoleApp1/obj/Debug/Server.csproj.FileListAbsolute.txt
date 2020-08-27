@@ -1,0 +1,13 @@
+C:\Users\mabbasak\ChiffresLettres\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mabbasak\ChiffresLettres\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mabbasak\ChiffresLettres\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mabbasak\ChiffresLettres\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\mabbasak\ChiffresLettres\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mabbasak\ChiffresLettres\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\kiyasawm\Desktop\ChiffresLettres\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kiyasawm\Desktop\ChiffresLettres\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kiyasawm\Desktop\ChiffresLettres\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kiyasawm\Desktop\ChiffresLettres\ConsoleApp1\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\kiyasawm\Desktop\ChiffresLettres\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kiyasawm\Desktop\ChiffresLettres\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kiyasawm\Desktop\ChiffresLettres\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
