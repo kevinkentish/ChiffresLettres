@@ -14,9 +14,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             TcpListener listener = new TcpListener(System.Net.IPAddress.Any, 1302);
-            //TcpListener listener2 = new TcpListener(System.Net.IPAddress.Any, 1303);
             listener.Start();
-            //listener2.Start();
             while (true)
             {
                 Console.WriteLine("Waiting for a connection.");
